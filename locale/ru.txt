@@ -1,0 +1,20 @@
+#: locale=ru
+
+## Медиа
+
+### Заголовок
+panorama_A6288C07_BEE8_522C_41D6_179DBA9E7A7F.label = 1 в магазине
+panorama_A6261EE9_BEE8_4FE4_41D2_B7A0223583DD.label = 2 в магазине
+panorama_A63EF409_BEE7_F225_41E2_75E797E38B5E.label = 3 в магазине
+panorama_B3FE63A5_BFA8_559B_41DE_AD41C3C5C586.label = 4 в магазине
+panorama_A63121F7_BEF8_75EC_41C5_8253C7A51D31.label = 5 в магазине
+panorama_A624B7E4_BEE8_DDE3_41E6_74F2B0F0226E.label = вход в магазин 2
+panorama_A6C8C62C_BEE8_5E7C_41E5_0CDB188C9D1E.label = вход магазин
+panorama_A63E17BC_BEE8_DE5C_41C0_D0802AD991AF.label = фойе магазин
+
+## Тур
+
+### Заголовок
+tour.name = тур магаз спорт
+
+### Описание
